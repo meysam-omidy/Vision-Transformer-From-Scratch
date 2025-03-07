@@ -1,3 +1,5 @@
+![2025-03-07 13_18_25-AN IMAGE IS WORTH 16X16 WORDS TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE pdf an](https://github.com/user-attachments/assets/1cfe07c5-c9c8-49a3-97e4-061a39a5126b)
+
 ## Overview
 
 This repository contains an implementation of the Vision Transformer (ViT) model as described in the paper "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale" by Alexey Dosovitskiy et al ([link to the paper](https://arxiv.org/abs/2010.11929)).
